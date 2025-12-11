@@ -1,4 +1,4 @@
-![Screenshot](https://raw.githubusercontent.com/Sukrimardana/websitecoding/c64f69ca79d9da30def809875fbbc94b3c76fd60/screenshot-2025-10-16-11-13-51.png)
+![Screenshot](images/screenshot-2025-10-16-11-13-51.png)
 
 # Chrome Remote Desktop Universal Installer
 
