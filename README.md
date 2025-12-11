@@ -1,3 +1,5 @@
+![Screenshot](https://raw.githubusercontent.com/Sukrimardana/websitecoding/c64f69ca79d9da30def809875fbbc94b3c76fd60/screenshot-2025-10-16-11-13-51.png)
+
 # Chrome Remote Desktop Universal Installer
 
 **Transform your cloud terminal into a full Linux desktop environment in minutes!**
@@ -6,7 +8,7 @@ Akses desktop Linux lengkap dari browser, smartphone Android, atau tablet - kapa
 
 ---
 
-## Apa Itu Project Ini?
+## Apa Itu ?
 
 Script automation yang mengubah cloud development environment (GitHub Codespaces, CodeSandbox) menjadi **full Linux desktop** dengan GUI lengkap. Tidak perlu instalasi lokal, tidak perlu VPS mahal - cukup jalankan script ini dan Anda punya desktop Linux yang bisa diakses dari mana saja!
 
