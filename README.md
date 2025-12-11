@@ -49,4 +49,20 @@ Script otomatis untuk menginstal **Chrome Remote Desktop** + **Desktop Environme
 ### **Step 2 : Mulai Setup CRD chrome remote desktop + gui xfce**
 jalankan perintah di bawah ini !
 
-
+```bash
+git clone https://github.com/Sukrimardana/crd-cloud-installer.git
+cd cloud-installer
+```
+**lanjutkan dengan perintah**
+```bash
+# Command 1
+sudo apt update && upgrade -y
+```
+```bash
+# Command ke 2 masuk ke mode root
+sudo su
+```
+```bash
+# Command ke 3 jalankan ./setupcrd.sh perhatikan dengan baik jangan sampai ada penambahan huruf yg anda salin pastikan nama file benar !
+./setupcrd.sh
+```
