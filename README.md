@@ -39,8 +39,14 @@ Script otomatis untuk menginstal **Chrome Remote Desktop** + **Desktop Environme
 ### **🎯 STEP 1: MULAI WORKSPACE BARU**
 
 **Untuk GitHub Codespaces:**
-```bash
-# 1. Buka repository GitHub Anda
-# 2. Klik tombol "Code" → "Codespaces"
-# 3. Pilih "Create codespace on main"
-# 4. Tunggu hingga terminal terbuka
+
+1. **Buka repository GitHub Anda**
+2. **Klik tombol "Code" →"Codespaces"**
+3. **Pilih "Create codespace on main"**
+4. **Tunggu hingga terminal terbuka**
+5 **Jika terminal Telah terbukan lanjut step 2 di bawah ini**
+
+### **Step 2 : Mulai Setup CRD chrome remote desktop + gui xfce**
+jalankan perintah di bawah ini !
+
+
